@@ -12,6 +12,15 @@ main h1 {
 #mainHeader > h1 {
     color: brown;
 }
+#mainHeader, #mainFooter {
+    background-color: red;
+}
+#mainNav a {
+    color: white;
+}
+#mainNav a:hover {
+    color: brown;
+}
 aside h1{
     color: green;
 }

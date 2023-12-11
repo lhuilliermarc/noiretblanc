@@ -12,6 +12,7 @@
 body {
     font-family: Raleway,Verdana, Geneva, Tahoma, sans-serif;
     color: var(--black);
+    font-size: 1rem;
 }
 .accessibility {
     position: absolute;
@@ -20,7 +21,7 @@ body {
 #mainHeader > h1 {
     color: var(--white);
     font-family: Cantarell, Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 14pt;
+    font-size: 1.3em;
     font-weight: normal;
 }
 #mainHeader, #mainFooter {

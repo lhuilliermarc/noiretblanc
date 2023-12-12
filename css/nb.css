@@ -34,6 +34,9 @@ body {
 #mainNav a:hover {
     color: var(--shaded-red);
 }
+#pageContent {
+    background: url(../images/image-1.jpg) center center / no-repeat fixed;
+}
 #leftCol h1 {
     color: var(--green);
     text-align: right;
